@@ -1,4 +1,4 @@
 {
     "domain": "http://192.168.29.84:5000",
-    "post_meter_readings_interval": 10
+    "post_meter_readings_interval": 5000
 }
